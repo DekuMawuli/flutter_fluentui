@@ -1,6 +1,6 @@
 # fluenter
 
-A new Flutter project.
+A sample to learn about flutter fluent_ui and how to build a cool UIs with it
 
 ## Getting Started
 
